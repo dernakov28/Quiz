@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="guesses_list">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="presidents">
+        <item>@string/abraham_lincoln</item>
+        <item>@string/andrew_jackson</item>
+        <item>@string/dwight_eisenhower</item>
+        <item>@string/franklin_d_roosevelt</item>
+        <item>@string/george_washington</item>
+        <item>@string/harry_s_truman</item>
+        <item>@string/james_k_polk</item>
+        <item>@string/theodore_roosevelt</item>
+        <item>@string/thomas_jefferson</item>
+        <item>@string/woodrow_wilson</item>
+    </string-array>
+
+    <string-array name="presidents_photos">
+        <item>abraham_lincoln.jpg</item>
+        <item>andrew_jackson.jpg</item>
+        <item>dwight_eisenhower.jpg</item>
+        <item>franklin_d_roosevelt.jpg</item>
+        <item>george_washington.jpg</item>
+        <item>harry_s_truman.jpg</item>
+        <item>james_k_polk.jpg</item>
+        <item>theodore_roosevelt.jpg</item>
+        <item>thomas_jefferson.jpg</item>
+        <item>woodrow_wilson.jpg</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>@string/abraham_lincoln</item>
+        <item>@string/andrew_jackson</item>
+        <item>@string/dwight_eisenhower</item>
+        <item>@string/franklin_d_roosevelt</item>
+        <item>@string/george_washington</item>
+        <item>@string/harry_s_truman</item>
+        <item>@string/james_k_polk</item>
+        <item>@string/theodore_roosevelt</item>
+        <item>@string/thomas_jefferson</item>
+        <item>@string/woodrow_wilson</item>
+        <item>Денис Глебов</item>
+        <item>Александр Лукашенко</item>
+        <item>Дед Мороз</item>
+    </string-array>
+
+</resources>
